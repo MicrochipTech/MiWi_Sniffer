@@ -11,7 +11,7 @@ MiWi™ is a proprietary wireless protocol. MiWi uses small, low-power digital r
 - Mesh
 
 just ![MiWi Architecture](./MiWi_Sniffer/Images/gg.PNG#gh-light-mode-only)--->
- - MiWi V6.xx is supported by SAMR30 and SAMR21 XPRO and Module boards. 
+ - MiWi v6.x is supported by SAMR30 and SAMR21 XPRO and Module boards. 
    * SAMR30 comprises AT86RF212B transceiver which can operate in Sub-GHZ frequency band.
    * SAMR21 comprises AT86RF233 transceiver which can operate in 2.4GHZ frequency band.	
  
@@ -19,7 +19,7 @@ just ![MiWi Architecture](./MiWi_Sniffer/Images/gg.PNG#gh-light-mode-only)--->
 
  * ZigBit devices shall serve as a protocol analyzer when used with the Wireshark sniffer firmware.
  
-**NOTE: MiWi 5.x frame parsing and decoding is not supported with this MiWi Sniffer**
+**NOTE: MiWi v5.x frame parsing and decoding is not supported with this MiWi Sniffer**
  
  <p align="center"><img width="460" height="300" src="./MiWi_Sniffer/Images/Zigbit_USB.jpg"></p>
  
