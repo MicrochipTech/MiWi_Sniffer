@@ -19,6 +19,8 @@ just ![MiWi Architecture](./MiWi_Sniffer/Images/gg.PNG#gh-light-mode-only)--->
 
  * ZigBit devices shall serve as a protocol analyzer when used with the Wireshark sniffer firmware.
  
+**NOTE: Please note that MiWi 5.x frame parsing and decoding is not supported with this MiWi Sniffer**
+ 
  <p align="center"><img width="460" height="300" src="./MiWi_Sniffer/Images/Zigbit_USB.jpg"></p>
  
  <!--- ![Installation Steps](./MiWi_Sniffer/Images/Zigbit_USB.jpg)--->
